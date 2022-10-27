@@ -8,7 +8,7 @@ Calc fx360 can perform consecutive operations and end it upon arriving at the de
 
 ## The Author
 ### Nazib Dimal
-He is an undergraduate Computer Science studying at Xavier University - Ateneo de Cagayan in the Philippines.
+He is an undergraduate Computer Science student studying at Xavier University - Ateneo de Cagayan in the Philippines.
 Just like other aspiring programmers, he is dedicated to pursue his ideas to contribute something beneficial 
 in the field of technology. 
 
